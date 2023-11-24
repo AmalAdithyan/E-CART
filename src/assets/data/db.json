@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "ProductName": "Post 1",
+        "categoryId":"",
+        "description":"",
+        "price":"",
+        "isAvailable":"",
+        "productImage":"",
+        "rating":"",
+        "review":"",
+        "vendorName":"",
+        "warrenty":""
+        
+
+      }
+    ]
+  }
