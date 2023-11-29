@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SiteLayOutModule } from './site-lay-out/site-lay-out.module'
+import { HttpClientModule } from '@angular/common/http';
 @NgModule({
   declarations: [
     AppComponent
@@ -11,7 +12,8 @@ import { SiteLayOutModule } from './site-lay-out/site-lay-out.module'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SiteLayOutModule
+    SiteLayOutModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

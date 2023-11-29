@@ -1,19 +1,134 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "ProductName": "Post 1",
-        "categoryId":"",
-        "description":"",
-        "price":"",
-        "isAvailable":"",
-        "productImage":"",
-        "rating":"",
-        "review":"",
-        "vendorName":"",
-        "warrenty":""
-        
-
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Mens CAsual Solid lycra shirt",
+      "categoryId": "2",
+      "description": "Latest mens half sleeve shirt",
+      "price": "1000",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/rFTFsmTv/51lji-WUtl-OL-SY741.jpg",
+      "rating": "4.5",
+      "review": "250",
+      "vendorName": "Malabar textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 2,
+      "ProductName": "MEns Formals Shirt",
+      "categoryId": "2",
+      "description": "Full sleeve shirt",
+      "price": "900",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/CLMzhNb3/61-IMUp1-E8-SL-SX679.jpg",
+      "rating": "4.2",
+      "review": "288",
+      "vendorName": "kalyan silks",
+      "warrenty": "1"
+    },
+    {
+      "id": 3,
+      "ProductName": "Mens shirt",
+      "categoryId": "2",
+      "description": "Latest mens shirt",
+      "price": "800",
+      "isAvailable": false,
+      "productImage": "https://i.postimg.cc/1t6JzP13/71ghih2f-Pc-L-SY741.jpg",
+      "rating": "3.5",
+      "review": "200",
+      "vendorName": "Chennai Textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 4,
+      "ProductName": "womens dress",
+      "categoryId": "2",
+      "description": "Casual dress",
+      "price": "700",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/RZhFxZwK/61-Rj-T9-KR6w-L-SL1500.jpg",
+      "rating": "4.8",
+      "review": "250",
+      "vendorName": "Chennai Textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 5,
+      "ProductName": "Kids Dress",
+      "categoryId": "2",
+      "description": "girls dress",
+      "price": "900",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/Y0pHMdLj/41-BUs-ZODPt-L.jpg",
+      "rating": "4.8",
+      "review": "530",
+      "vendorName": "Mumbai textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 6,
+      "ProductName": "Kids dress",
+      "categoryId": "2",
+      "description": "girls dress",
+      "price": "900",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/h4J80KXy/71h-0-Fh-Z-j-L-SL1500.jpg",
+      "rating": "4.8",
+      "review": "430",
+      "vendorName": "Mumbai textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 7,
+      "ProductName": "Kids Dress",
+      "categoryId": "2",
+      "description": "girls",
+      "price": "girls dress",
+      "isAvailable": "900",
+      "productImage": "https://i.postimg.cc/gjGMn5DF/51-Zpz-N8365-L.jpg",
+      "rating": "4.8",
+      "review": "430",
+      "vendorName": "Mumbai textiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 8,
+      "ProductName": "Womens dress",
+      "categoryId": "2",
+      "description": "Girls dress",
+      "price": "900",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/fTGwpfTn/61-F5ey-N3v-JL-SL1500.jpg",
+      "rating": "4.8",
+      "review": "530",
+      "vendorName": "Munni TExtiles",
+      "warrenty": "1"
+    },
+    {
+      "id": 9,
+      "ProductName": "Laptop",
+      "categoryId": "1",
+      "description": "latest core processor",
+      "price": "9",
+      "isAvailable": "yes",
+      "productImage": "https://i.postimg.cc/CxVqNmSQ/81ii-W9h7-Y9-L-SL1500.jpg",
+      "rating": "4.5",
+      "review": "450",
+      "vendorName": "Lenovo",
+      "warrenty": "2"
+    },
+    {
+      "id": 10,
+      "ProductName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "categoryId": "3",
+      "description": "Rose gold platd flared tunnel ear ring",
+      "price": "500",
+      "isAvailable": "yes",
+      "productImage": "https://i.postimg.cc/76BdkKxH/71i-Q2-TDw-QKL-SL1500.jpg",
+      "rating": "3.5",
+      "review": "200",
+      "vendorName": "Malabar Jwellers",
+      "warrenty": "1"
+    } 
+   ]
+}

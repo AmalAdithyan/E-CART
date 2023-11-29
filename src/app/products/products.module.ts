@@ -21,7 +21,7 @@ import { DeleteProductComponent } from './delete-product/delete-product.componen
   ],
   imports: [
     CommonModule,
-    ProductsRoutingModule
+    ProductsRoutingModule,
   ]
 })
 export class ProductsModule { }
