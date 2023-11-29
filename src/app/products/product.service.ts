@@ -15,4 +15,8 @@ search=new BehaviorSubject("")
   viewAllProduct(){
     return this.http.get('http://localhost:3000/products')
   }
+  //apii call to view single product 
+  viewProduct(productId:any){
+    return this.http.get('http:localhost:3000/products/'+productId)
+  }
 }
