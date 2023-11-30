@@ -116,6 +116,19 @@
       "review": "200",
       "vendorName": "Malabar Jwellers",
       "warrenty": "1"
+    },
+    {
+      "id": "12",
+      "productName": "seiko watch",
+      "categoryId": "2",
+      "description": "watch made by seiko switzerland",
+      "price": "5000",
+      "isAvailable": "True",
+      "productImage": "https://i.postimg.cc/rygnmt0K/61j-Zr-Jjs42-L-SL1000.jpg",
+      "rating": "4.5",
+      "review": "450",
+      "vendorName": "SEIKO",
+      "warrenty": "2"
     }
   ]
 }
