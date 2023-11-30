@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "ProductName": "Mens CAsual Solid lycra shirt",
+      "productName": "Mens CAsual Solid lycra shirt",
       "categoryId": "2",
       "description": "Latest mens half sleeve shirt",
       "price": "1000",
@@ -14,21 +14,8 @@
       "warrenty": "1"
     },
     {
-      "id": 2,
-      "ProductName": "MEns Formals Shirt",
-      "categoryId": "2",
-      "description": "Full sleeve shirt",
-      "price": "900",
-      "isAvailable": true,
-      "productImage": "https://i.postimg.cc/CLMzhNb3/61-IMUp1-E8-SL-SX679.jpg",
-      "rating": "4.2",
-      "review": "288",
-      "vendorName": "kalyan silks",
-      "warrenty": "1"
-    },
-    {
       "id": 3,
-      "ProductName": "Mens shirt",
+      "productName": "Mens shirt",
       "categoryId": "2",
       "description": "Latest mens shirt",
       "price": "800",
@@ -41,7 +28,7 @@
     },
     {
       "id": 4,
-      "ProductName": "womens dress",
+      "productName": "womens dress",
       "categoryId": "2",
       "description": "Casual dress",
       "price": "700",
@@ -54,7 +41,7 @@
     },
     {
       "id": 5,
-      "ProductName": "Kids Dress",
+      "productName": "Kids Dress",
       "categoryId": "2",
       "description": "girls dress",
       "price": "900",
@@ -67,7 +54,7 @@
     },
     {
       "id": 6,
-      "ProductName": "Kids dress",
+      "productName": "Kids dress",
       "categoryId": "2",
       "description": "girls dress",
       "price": "900",
@@ -80,7 +67,7 @@
     },
     {
       "id": 7,
-      "ProductName": "Kids Dress",
+      "productName": "Kids Dress",
       "categoryId": "2",
       "description": "girls",
       "price": "girls dress",
@@ -93,7 +80,7 @@
     },
     {
       "id": 8,
-      "ProductName": "Womens dress",
+      "productName": "Womens dress",
       "categoryId": "2",
       "description": "Girls dress",
       "price": "900",
@@ -106,7 +93,7 @@
     },
     {
       "id": 9,
-      "ProductName": "Laptop",
+      "productName": "Laptop",
       "categoryId": "1",
       "description": "latest core processor",
       "price": "9",
@@ -119,7 +106,7 @@
     },
     {
       "id": 10,
-      "ProductName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "productName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
       "categoryId": "3",
       "description": "Rose gold platd flared tunnel ear ring",
       "price": "500",
@@ -129,6 +116,6 @@
       "review": "200",
       "vendorName": "Malabar Jwellers",
       "warrenty": "1"
-    } 
-   ]
+    }
+  ]
 }

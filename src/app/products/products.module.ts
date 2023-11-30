@@ -9,6 +9,8 @@ import { AddProductComponent } from './add-product/add-product.component';
 import { EditProductComponent } from './edit-product/edit-product.component';
 import { DeleteProductComponent } from './delete-product/delete-product.component';
 import { FilterPipe } from './pipe/filter.pipe';
+import { HttpClientModule } from '@angular/common/http';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -24,6 +26,8 @@ import { FilterPipe } from './pipe/filter.pipe';
   imports: [
     CommonModule,
     ProductsRoutingModule,
+    HttpClientModule,
+    ReactiveFormsModule
   ]
 })
 export class ProductsModule { }
