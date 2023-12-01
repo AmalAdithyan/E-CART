@@ -35,6 +35,6 @@ export class ProductService {
 
   //api call to update product
   updateProduct(productId: any, productData: any) {
-    return this.http.put('http://localhost:3000/products/' + productId, productData);
+    return this.http.put('http://localhost:3000/products/'+productId,productData);
   }
 }

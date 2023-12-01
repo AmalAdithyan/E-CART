@@ -1,22 +1,27 @@
-#d1:hover{
-transform: scale(1.1);
+#d1:hover {
+    transform: scale(1.1);
+
 }
-#d2:hover{
+
+#d2:hover {
     transform: scale(1.1);
     background-color: rgba(127, 255, 212, 0.376);
 }
-#d3:hover{
-    transform: scale(1.1);
-    background-color: rgba(127, 255, 212, 0.376);
 
-}
-#d4:hover{
-
+#d3:hover {
     transform: scale(1.1);
     background-color: rgba(127, 255, 212, 0.376);
 
 }
-#d5:hover{
+
+#d4:hover {
+
+    transform: scale(1.1);
+    background-color: rgba(127, 255, 212, 0.376);
+
+}
+
+#d5:hover {
     transform: scale(1.1);
     background-color: rgba(127, 255, 212, 0.376);
 
